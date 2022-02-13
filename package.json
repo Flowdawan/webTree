@@ -1,0 +1,24 @@
+{
+  "name": "webtree",
+  "version": "1.0.0",
+  "description": "A simple tree structure built notes app which runs in the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Flowdawan/webTree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Flowdawan/webTree/issues"
+  },
+  "homepage": "https://github.com/Flowdawan/webTree#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "proxy": "http://localhost:5000"
+}
